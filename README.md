@@ -1,16 +1,3 @@
-# weather_app
+# DailyWeather
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+DailyWeather app helps user to get weather and pollution information. It shows the temperature, wind, pressure , and forecast about the weather in the next hour. Currently, it only shows the weather information in New York, Barcelona, Tokyo and Amsterdam. 
